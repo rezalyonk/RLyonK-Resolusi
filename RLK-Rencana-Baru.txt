@@ -1,0 +1,5 @@
+Harus mengerti :
+
+-) HTML
+-) CSS
+-) Bootstrap
