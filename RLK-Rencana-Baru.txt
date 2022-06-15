@@ -1,5 +1,6 @@
 Harus mengerti :
 
+-) Belajar OOP JS
 -) HTML
 -) CSS
 -) Bootstrap
