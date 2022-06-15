@@ -1,6 +1,6 @@
 Harus mengerti :
 
--) 
+-) Belajar react js
 -) HTML
 -) CSS
 -) Bootstrap
