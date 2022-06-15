@@ -1,7 +1,7 @@
 Harus mengerti :
 
--) Belajar OOP JS
+-) Belajar react js
 -) HTML
 -) CSS
 -) Bootstrap
--) Belajar JS Framework
+-) Belajar Framwork
