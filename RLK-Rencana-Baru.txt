@@ -4,3 +4,4 @@ Harus mengerti :
 -) HTML
 -) CSS
 -) Bootstrap
+-) Belajar JS Framework
