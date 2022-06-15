@@ -1,0 +1,4 @@
+Harus mengerti :
+
+-) HTML
+-) CSS
